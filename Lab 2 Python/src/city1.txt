@@ -1,0 +1,730 @@
+
+
+
+From                   To                     Miles
+
+Anaconda               Anaconda                      0
+Anaconda               Belgrade                    100
+Anaconda               Big Timber                  170
+Anaconda               Boulder                      64
+Anaconda               Bozeman                     109
+Anaconda               Butte                        27
+Anaconda               Deer Lodge                   27
+Anaconda               Dillon                       78
+Anaconda               Hamilton                    126
+Anaconda               Helena                       83
+Anaconda               Livingston                  135
+Anaconda               Missoula                    105
+Anaconda               Philipsburg                  31
+Anaconda               Superior                    162
+Anaconda               Three Forks                  80
+Anaconda               Townsend                    106
+Anaconda               Virginia City                99
+Anaconda               White Sulphur Springs       148
+-----------------------
+Baker                  Baker                         0
+Baker                  Broadus                     157
+Baker                  Circle                      120
+Baker                  Culbertson                  162
+Baker                  Ekalaka                      35
+Baker                  Forsyth                     125
+Baker                  Glendive                     71
+Baker                  Hysham                      154
+Baker                  Jordan                      165
+Baker                  Miles City                   81
+Baker                  Plentywood                  209
+Baker                  Poplar                      185
+Baker                  Sidney                      125
+Baker                  Terry                       110
+Baker                  Wibaux                       45
+Baker                  Wolf Point                  173
+-----------------------
+Belgrade               Belgrade                      0
+Belgrade               Big Timber                   70
+Belgrade               Billings                    149
+Belgrade               Boulder                      74
+Belgrade               Bozeman                       9
+Belgrade               Butte                        73
+Belgrade               Choteau                     186
+Belgrade               Columbus                    110
+Belgrade               Deer Lodge                  114
+Belgrade               Dillon                      103
+Belgrade               Gardiner                     88
+Belgrade               Great Falls                 168
+Belgrade               Harlowton                   114
+Belgrade               Helena                       86
+Belgrade               Laurel                      135
+Belgrade               Livingston                   35
+Belgrade               Philipsburg                 131
+Belgrade               Three Forks                  21
+Belgrade               Townsend                     54
+Belgrade               Virginia City                67
+Belgrade               White Sulphur Springs        89
+-----------------------
+Big Timber             Big Timber                    0
+Big Timber             Billings                     81
+Big Timber             Boulder                     144
+Big Timber             Bozeman                      61
+Big Timber             Butte                       143
+Big Timber             Columbus                     40
+Big Timber             Cooke City                  144
+Big Timber             Fort Benton                 177
+Big Timber             Gardiner                     88
+Big Timber             Grassrange Junction         132
+Big Timber             Hardin                      127
+Big Timber             Harlowton                    44
+Big Timber             Helena                      150
+Big Timber             Hysham                      158
+Big Timber             Laurel                       65
+Big Timber             Lewistown                   101
+Big Timber             Livingston                   35
+Big Timber             Red Lodge                    88
+Big Timber             Roundup                     113
+Big Timber             Ryegate                      74
+Big Timber             Stanford                    112
+Big Timber             Three Forks                  91
+Big Timber             Townsend                    118
+Big Timber             Virginia City               128
+Big Timber             White Sulphur Springs        94
+Big Timber             Winnett                     155
+-----------------------
+Billings               Billings                      0
+Billings               Broadus                     168
+Billings               Columbus                     41
+Billings               Cooke City                  126
+Billings               Forsyth                     100
+Billings               Gardiner                    169
+Billings               Grassrange Junction          97
+Billings               Hardin                       46
+Billings               Harlowton                    93
+Billings               Hysham                       77
+Billings               Laurel                       16
+Billings               Lewistown                   128
+Billings               Livingston                  116
+Billings               Miles City                  145
+Billings               Red Lodge                    60
+Billings               Roundup                      53
+Billings               Ryegate                      63
+Billings               Stanford                    159
+Billings               White Sulphur Springs       150
+Billings               Winnett                      98
+-----------------------
+Boulder                Boulder                       0
+Boulder                Bozeman                      83
+Boulder                Butte                        37
+Boulder                Choteau                     127
+Boulder                Deer Lodge                   78
+Boulder                Dillon                       93
+Boulder                Fort Benton                 160
+Boulder                Gardiner                    162
+Boulder                Great Falls                 116
+Boulder                Harlowton                   158
+Boulder                Helena                       27
+Boulder                Livingston                  109
+Boulder                Missoula                    142
+Boulder                Philipsburg                  95
+Boulder                Three Forks                  54
+Boulder                Townsend                     59
+Boulder                Virginia City                93
+Boulder                White Sulphur Springs       101
+-----------------------
+Bozeman                Bozeman                       0
+Bozeman                Butte                        82
+Bozeman                Columbus                    101
+Bozeman                Cooke City                  135
+Bozeman                Deer Lodge                  123
+Bozeman                Dillon                      112
+Bozeman                Gardiner                     79
+Bozeman                Harlowton                   105
+Bozeman                Helena                       95
+Bozeman                Laurel                      126
+Bozeman                Lewistown                   162
+Bozeman                Livingston                   26
+Bozeman                Philipsburg                 140
+Bozeman                Red Lodge                   149
+Bozeman                Ryegate                     135
+Bozeman                Three Forks                  30
+Bozeman                Townsend                     63
+Bozeman                Virginia City                67
+Bozeman                White Sulphur Springs        80
+-----------------------
+Broadus                Broadus                       0
+Broadus                Forsyth                     122
+Broadus                Hardin                      122
+Broadus                Hysham                      139
+Broadus                Miles City                   79
+Broadus                Terry                       115
+-----------------------
+Browning               Browning                      0
+Browning               Chester                     100
+Browning               Choteau                      72
+Browning               Conrad                       66
+Browning               Cut Bank                     34
+Browning               East Glacier Park            13
+Browning               Eureka                      145
+Browning               Great Falls                 127
+Browning               Havre                       160
+Browning               Helena                      172
+Browning               Kalispell                    99
+Browning               Polson                      138
+Browning               Shelby                       58
+Browning               Sweetgrass                   92
+Browning               West Glacier                 68
+Browning               Whitefish                    93
+-----------------------
+Butte                  Butte                         0
+Butte                  Choteau                     164
+Butte                  Deer Lodge                   41
+Butte                  Dillon                       65
+Butte                  Gardiner                    161
+Butte                  Great Falls                 153
+Butte                  Hamilton                    147
+Butte                  Helena                       64
+Butte                  Livingston                  108
+Butte                  Missoula                    120
+Butte                  Philipsburg                  58
+Butte                  Three Forks                  53
+Butte                  Townsend                     79
+Butte                  Virginia City                72
+Butte                  White Sulphur Springs       121
+-----------------------
+Chester                Chester                       0
+Chester                Chinook                      81
+Chester                Choteau                     117
+Chester                Conrad                       67
+Chester                Cut Bank                     66
+Chester                East Glacier Park           113
+Chester                Fort Benton                 53
+Chester                Great Falls                 130
+Chester                Havre                        60
+Chester                Lewistown                   155
+Chester                Malta                       148
+Chester                Miles City                  394
+Chester                Shelby                       42
+Chester                Sweetgrass                   78
+Chester                West Glacier                168
+-----------------------
+Chinook                Chinook                       0
+Chinook                Conrad                      148
+Chinook                Cut Bank                    147
+Chinook                Fort Benton                  96
+Chinook                Glasgow                     137
+Chinook                Grassrange Junction         132
+Chinook                Great Falls                 136
+Chinook                Harlowton                   210
+Chinook                Havre                        21
+Chinook                Lewistown                   153
+Chinook                Malta                        67
+Chinook                Shelby                      123
+Chinook                Stanford                    161
+Chinook                Sweetgrass                  159
+Chinook                Winnett                     155
+-----------------------
+Choteau                Choteau                       0
+Choteau                Conrad                       50
+Choteau                Cut Bank                     97
+Choteau                Deer Lodge                  154
+Choteau                East Glacier Park            85
+Choteau                Fort Benton                  99
+Choteau                Great Falls                  55
+Choteau                Havre                       170
+Choteau                Helena                      100
+Choteau                Lewistown                   160
+Choteau                Shelby                       75
+Choteau                Stanford                    115
+Choteau                Sweetgrass                  109
+Choteau                Three Forks                 166
+Choteau                Townsend                    132
+Choteau                West Glacier                140
+Choteau                Whitefish                   165
+Choteau                White Sulphur Springs       152
+-----------------------
+Circle                 Circle                        0
+Circle                 Culbertson                   98
+Circle                 Ekalaka                     155
+Circle                 Forsyth                     163
+Circle                 Glasgow                     102
+Circle                 Glendive                     49
+Circle                 Grassrange Junction         166
+Circle                 Jordan                       67
+Circle                 Miles City                  119
+Circle                 Plentywood                  140
+Circle                 Poplar                       65
+Circle                 Scobey                       99
+Circle                 Sidney                       75
+Circle                 Terry                        80
+Circle                 Wibaux                       75
+Circle                 Winnett                     143
+Circle                 Wolf Point                   53
+-----------------------
+Columbus               Columbus                      0
+Columbus               Cooke City                  114
+Columbus               Forsyth                     141
+Columbus               Gardiner                    128
+Columbus               Grassrange Junction         138
+Columbus               Hardin                       87
+Columbus               Harlowton                    84
+Columbus               Hysham                      118
+Columbus               Laurel                       25
+Columbus               Lewistown                   141
+Columbus               Livingston                   75
+Columbus               Red Lodge                    48
+Columbus               Roundup                      94
+Columbus               Ryegate                     104
+Columbus               Three Forks                 131
+Columbus               Townsend                    158
+Columbus               Virginia City               168
+Columbus               White Sulphur Springs       134
+Columbus               Winnett                     139
+-----------------------
+Conrad                 Conrad                        0
+Conrad                 Cut Bank                     47
+Conrad                 East Glacier Park            79
+Conrad                 Fort Benton                 107
+Conrad                 Great Falls                  63
+Conrad                 Havre                       127
+Conrad                 Helena                      142
+Conrad                 Kalispell                   165
+Conrad                 Lewistown                   168
+Conrad                 Shelby                       25
+Conrad                 Stanford                    123
+Conrad                 Sweetgrass                   59
+Conrad                 West Glacier                134
+Conrad                 Whitefish                   159
+Conrad                 White Sulphur Springs       160
+-----------------------
+Cooke City             Cooke City                    0
+Cooke City             Gardiner                     56
+Cooke City             Hardin                      172
+Cooke City             Laurel                      110
+Cooke City             Livingston                  109
+Cooke City             Red Lodge                    66
+Cooke City             Three Forks                 165
+-----------------------
+Culbertson             Culbertson                    0
+Culbertson             Glasgow                     103
+Culbertson             Glendive                     91
+Culbertson             Jordan                      165
+Culbertson             Malta                       173
+Culbertson             Miles City                  165
+Culbertson             Plentywood                   47
+Culbertson             Poplar                       33
+Culbertson             Scobey                       88
+Culbertson             Sidney                       37
+Culbertson             Terry                       126
+Culbertson             Wibaux                      117
+Culbertson             Wolf Point                   54
+-----------------------
+Cut Bank               Cut Bank                      0
+Cut Bank               East Glacier Park            47
+Cut Bank               Fort Benton                 154
+Cut Bank               Great Falls                 110
+Cut Bank               Havre                       126
+Cut Bank               Kalispell                   133
+Cut Bank               Shelby                       24
+Cut Bank               Stanford                    170
+Cut Bank               Sweetgrass                   58
+Cut Bank               West Glacier                102
+Cut Bank               Whitefish                   127
+-----------------------
+Deer Lodge             Deer Lodge                    0
+Deer Lodge             Dillon                       92
+Deer Lodge             Great Falls                 145
+Deer Lodge             Hamilton                    129
+Deer Lodge             Helena                       56
+Deer Lodge             Missoula                     79
+Deer Lodge             Philipsburg                  57
+Deer Lodge             Polson                      145
+Deer Lodge             Three Forks                  94
+Deer Lodge             Townsend                     88
+Deer Lodge             Virginia City               113
+Deer Lodge             White Sulphur Springs       130
+-----------------------
+Dillon                 Dillon                        0
+Dillon                 Hamilton                    163
+Dillon                 Helena                      120
+Dillon                 Livingston                  138
+Dillon                 Missoula                    171
+Dillon                 Philipsburg                 109
+Dillon                 Three Forks                  83
+Dillon                 Townsend                    109
+Dillon                 Virginia City                57
+Dillon                 White Sulphur Springs       151
+-----------------------
+East Glacier Park      East Glacier Park             0
+East Glacier Park      Eureka                      132
+East Glacier Park      Great Falls                 140
+East Glacier Park      Kalispell                    86
+East Glacier Park      Polson                      125
+East Glacier Park      Shelby                       71
+East Glacier Park      Sweetgrass                  105
+East Glacier Park      West Glacier                 55
+East Glacier Park      Whitefish                    80
+-----------------------
+Ekalaka                Ekalaka                       0
+Ekalaka                Forsyth                     160
+Ekalaka                Glendive                    106
+Ekalaka                Miles City                  116
+Ekalaka                Sidney                      160
+Ekalaka                Terry                       145
+Ekalaka                Wibaux                       80
+Ekalaka                Wolf Point                  208
+-----------------------
+Eureka                 Eureka                        0
+Eureka                 Kalispell                    66
+Eureka                 Libby                        68
+Eureka                 Polson                      115
+Eureka                 Thompson Falls              158
+Eureka                 West Glacier                 77
+Eureka                 Whitefish                    52
+-----------------------
+Forsyth                Forsyth                       0
+Forsyth                Glendive                    122
+Forsyth                Grassrange Junction         145
+Forsyth                Hardin                       75
+Forsyth                Hysham                       29
+Forsyth                Jordan                      129
+Forsyth                Laurel                      116
+Forsyth                Lewistown                   176
+Forsyth                Miles City                   45
+Forsyth                Red Lodge                   160
+Forsyth                Roundup                     101
+Forsyth                Ryegate                     140
+Forsyth                Terry                        83
+Forsyth                Wibaux                      148
+Forsyth                Winnett                     146
+-----------------------
+Fort Benton            Fort Benton                   0
+Fort Benton            Grassrange Junction         130
+Fort Benton            Great Falls                  44
+Fort Benton            Harlowton                   133
+Fort Benton            Havre                        75
+Fort Benton            Helena                      133
+Fort Benton            Lewistown                    99
+Fort Benton            Malta                       163
+Fort Benton            Ryegate                     161
+Fort Benton            Shelby                      132
+Fort Benton            Stanford                     65
+Fort Benton            Three Forks                 199
+Fort Benton            Townsend                    165
+Fort Benton            White Sulphur Springs       141
+Fort Benton            Winnett                     153
+-----------------------
+Gardiner                Gardiner                     0
+Gardiner                Harlowton                  132
+Gardiner                Helena                     174
+Gardiner                Laurel                     153
+Gardiner                Livingston                  53
+Gardiner                Red Lodge                  122
+Gardiner                Ryegate                    162
+Gardiner                Three Forks                109
+Gardiner                Townsend                   142
+Gardiner                Virginia City              138
+Gardiner                White Sulphur Springs      126
+-----------------------
+Glasgow                Glasgow                       0
+Glasgow                Glendive                    151
+Glasgow                Havre                       158
+Glasgow                Jordan                      113
+Glasgow                Malta                        70
+Glasgow                Plentywood                  145
+Glasgow                Poplar                       70
+Glasgow                Scobey                      104
+Glasgow                Sidney                      140
+Glasgow                Wolf Point                   49
+-----------------------
+Glendive               Glendive                      0
+Glendive               Hysham                      151
+Glendive               Jordan                      116
+Glendive               Miles City                   78
+Glendive               Plentywood                  138
+Glendive               Poplar                      114
+Glendive               Scobey                      148
+Glendive               Sidney                       54
+Glendive               Terry                        39
+Glendive               Wibaux                       26
+Glendive               Wolf Point                  102
+-----------------------
+Grassrange Junction    Grassrange Junction           0
+Grassrange Junction    Great Falls                 136
+Grassrange Junction    Hardin                      137
+Grassrange Junction    Harlowton                    88
+Grassrange Junction    Havre                       153
+Grassrange Junction    Hysham                      168
+Grassrange Junction    Jordan                       99
+Grassrange Junction    Laurel                      113
+Grassrange Junction    Lewistown                    31
+Grassrange Junction    Malta                       112
+Grassrange Junction    Red Lodge                   157
+Grassrange Junction    Roundup                      44
+Grassrange Junction    Ryegate                      83
+Grassrange Junction    Stanford                     76
+Grassrange Junction    White Sulphur Springs       145
+Grassrange Junction    Winnett                      23
+-----------------------
+Great Falls            Great Falls                   0
+Great Falls            Harlowton                   128
+Great Falls            Havre                       115
+Great Falls            Helena                       89
+Great Falls            Lewistown                   105
+Great Falls            Ryegate                     156
+Great Falls            Shelby                       88
+Great Falls            Stanford                     60
+Great Falls            Sweetgrass                  122
+Great Falls            Three Forks                 155
+Great Falls            Townsend                    121
+Great Falls            White Sulphur Springs        97
+Great Falls            Winnett                     159
+-----------------------
+Hamilton               Hamilton                      0
+Hamilton               Helena                      165
+Hamilton               Kalispell                   165
+Hamilton               Missoula                     50
+Hamilton               Philipsburg                 124
+Hamilton               Polson                      116
+Hamilton               Superior                    107
+Hamilton               Thompson Falls              150
+-----------------------
+Hardin                 Hardin                        0
+Hardin                 Harlowton                   139
+Hardin                 Hysham                       52
+Hardin                 Laurel                       62
+Hardin                 Miles City                  120
+Hardin                 Red Lodge                   106
+Hardin                 Roundup                      93
+Hardin                 Ryegate                     109
+Hardin                 Terry                       158
+Hardin                 Winnett                     138
+-----------------------
+Harlowton              Harlowton                     0
+Harlowton              Helena                      131
+Harlowton              Hysham                      170
+Harlowton              Laurel                      109
+Harlowton              Lewistown                    57
+Harlowton              Livingston                   79
+Harlowton              Red Lodge                   132
+Harlowton              Roundup                      69
+Harlowton              Ryegate                      30
+Harlowton              Stanford                     68
+Harlowton              Three Forks                 133
+Harlowton              Townsend                     99
+Harlowton              White Sulphur Springs        57
+Harlowton              Winnett                     111
+-----------------------
+Havre                  Malta                        88
+Havre                  Shelby                      102
+Havre                  Stanford                    140
+Havre                  Sweetgrass                  138
+-----------------------
+Helena                 Helena                        0
+Helena                 Livingston                  121
+Helena                 Missoula                    115
+Helena                 Philipsburg                  93
+Helena                 Ryegate                     161
+Helena                 Stanford                    149
+Helena                 Superior                    172
+Helena                 Three Forks                  66
+Helena                 Townsend                     32
+Helena                 Virginia City               120
+Helena                 White Sulphur Springs        74
+-----------------------
+Hysham                 Hysham                        0
+Hysham                 Jordan                      158
+Hysham                 Laurel                       93
+Hysham                 Miles City                   74
+Hysham                 Red Lodge                   137
+Hysham                 Roundup                     124
+Hysham                 Ryegate                     140
+Hysham                 Terry                       112
+-----------------------
+Jordan                 Jordan                        0
+Jordan                 Lewistown                   130
+Jordan                 Miles City                   84
+Jordan                 Poplar                      132
+Jordan                 Roundup                     121
+Jordan                 Ryegate                     160
+Jordan                 Sidney                      142
+Jordan                 Terry                       123
+Jordan                 Winnett                      76
+Jordan                 Wolf Point                  120
+-----------------------
+Kalispell              Kalispell                     0
+Kalispell              Libby                        89
+Kalispell              Missoula                    115
+Kalispell              Polson                       49
+Kalispell              Superior                    125
+Kalispell              Thompson Falls              108
+Kalispell              West Glacier                 31
+Kalispell              Whitefish                    14
+-----------------------
+Laurel                 Laurel                        0
+Laurel                 Lewistown                   144
+Laurel                 Livingston                  100
+Laurel                 Miles City                  161
+Laurel                 Red Lodge                    44
+Laurel                 Roundup                      69
+Laurel                 Ryegate                      79
+Laurel                 Three Forks                 156
+Laurel                 White Sulphur Springs       159
+Laurel                 Winnett                     114
+-----------------------
+Lewistown              Lewistown                     0
+Lewistown              Livingston                  136
+Lewistown              Malta                       133
+Lewistown              Roundup                      75
+Lewistown              Ryegate                      85
+Lewistown              Stanford                     45
+Lewistown              Townsend                    156
+Lewistown              White Sulphur Springs       114
+Lewistown              Winnett                      54
+-----------------------
+Libby                  Libby                         0
+Libby                  Polson                      138
+Libby                  Superior                    159
+Libby                  Thompson Falls               90
+Libby                  West Glacier                120
+Libby                  Whitefish                   103
+-----------------------
+Livingston             Livingston                    0
+Livingston             Philipsburg                 166
+Livingston             Red Lodge                   123
+Livingston             Roundup                     148
+Livingston             Ryegate                     109
+Livingston             Stanford                    147
+Livingston             Three Forks                  56
+Livingston             Townsend                     89
+Livingston             Virginia City                93
+Livingston             White Sulphur Springs        73
+-----------------------
+Malta                  Malta                         0
+Malta                  Poplar                      140
+Malta                  Roundup                     156
+Malta                  Wolf Point                  119
+-----------------------
+Miles City             Miles City                    0
+Miles City             Roundup                     146
+Miles City             Sidney                      128
+Miles City             Terry                        39
+Miles City             Wibaux                      104
+Miles City             Winnett                     158
+-----------------------
+Missoula               Missoula                      0
+Missoula               Philipsburg                  74
+Missoula               Polson                       66
+Missoula               Roundup                     315
+Missoula               Superior                     57
+Missoula               Thompson Falls              100
+Missoula               Three Forks                 173
+Missoula               Townsend                    147
+Missoula               West Glacier                136
+Missoula               Whitefish                   129
+-----------------------
+Philipsburg            Philipsburg                   0
+Philipsburg            Polson                      140
+Philipsburg            Three Forks                 111
+Philipsburg            Townsend                    125
+Philipsburg            Virginia City               130
+Philipsburg            White Sulphur Springs       167
+-----------------------
+Plentywood             Plentywood                    0
+Plentywood             Poplar                       80
+Plentywood             Scobey                       41
+Plentywood             Sidney                       84
+Plentywood             Wibaux                      164
+Plentywood             Wolf Point                   96
+-----------------------
+Polson                 Polson                        0
+Polson                 Superior                     97
+Polson                 Thompson Falls               91
+Polson                 West Glacier                 70
+Polson                 Whitefish                    63
+-----------------------
+Poplar                 Poplar                        0
+Poplar                 Scobey                       62
+Poplar                 Sidney                       70
+Poplar                 Terry                       145
+Poplar                 Wibaux                      140
+Poplar                 Wolf Point                   21
+-----------------------
+Red Lodge              Red Lodge                     0
+Red Lodge              Roundup                     113
+Red Lodge              Ryegate                     123
+Red Lodge              Winnett                     158
+-----------------------
+Roundup                Roundup                       0
+Roundup                Stanford                    120
+Roundup                Townsend                    168
+Roundup                White Sulphur Springs       126
+Roundup                Winnett                      45
+-----------------------
+Ryegate                Ryegate                       0
+Ryegate                Stanford                     96
+Ryegate                Three Forks                 163
+Ryegate                Townsend                    129
+Ryegate                White Sulphur Springs        87
+Ryegate                Winnett                      84
+-----------------------
+Scobey                 Scobey                        0
+Scobey                 Sidney                      125
+Scobey                 Wolf Point                   55
+-----------------------
+Shelby                 Shelby                        0
+Shelby                 Stanford                    148
+Shelby                 Sweetgrass                   36
+Shelby                 West Glacier                126
+Shelby                 Whitefish                   151
+-----------------------
+Sidney                 Sidney                        0
+Sidney                 Terry                        89
+Sidney                 Wibaux                       80
+Sidney                 Wolf Point                   91
+-----------------------
+Stanford               Stanford                      0
+Stanford               Townsend                    153
+Stanford               White Sulphur Springs       111
+Stanford               Winnett                      99
+-----------------------
+Superior               Superior                      0
+Superior               Thompson Falls               69
+Superior               West Glacier                156
+Superior               Whitefish                   139
+-----------------------
+Sweetgrass             Sweetgrass                    0
+Sweetgrass             West Glacier                160
+-----------------------
+Terry                  Terry                         0
+Terry                  Wibaux                       65
+-----------------------
+Thompson Falls         Thompson Falls                0
+Thompson Falls         West Glacier                139
+Thompson Falls         Whitefish                   122
+-----------------------
+Three Forks            Three Forks                   0
+Three Forks            Townsend                     34
+Three Forks            Virginia City                61
+Three Forks            White Sulphur Springs        76
+-----------------------
+Townsend               Townsend                      0
+Townsend               Virginia City                89
+Townsend               White Sulphur Springs        42
+-----------------------
+Virginia City          Virginia City                 0
+Virginia City          White Sulphur Springs       131
+-----------------------
+West Glacier           West Glacier                  0
+West Glacier           Whitefish                    25
+-----------------------
+West Yellowstone       West Yellowstone              0
+-----------------------
+Whitefish              Whitefish                     0
+-----------------------
+White Sulphur Springs  White Sulphur Springs         0
+White Sulphur Springs  Winnett                     168
+-----------------------
+Wibaux                 Wibaux                        0
+Wibaux                 Wolf Point                  128
+-----------------------
+Winnett                Winnett                       0
+-----------------------
+Wolf Point             Wolf Point                    0
+

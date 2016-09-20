@@ -1,0 +1,25 @@
+Bradley White
+CSCI 305
+Lab #3 Scheme Questions
+4-9-2016
+
+1. (3 8 9 2 4 10)
+2. Recursively iterate through a list and add one to each element.
+3. If statement to check for an empty list and is the base case for the recursion
+4. If the list is empty return ()
+5. Else add one to the first element of the list and concatenate to a new list, 
+	then recursively call the function on the remainder of the list.
+6. #f
+7. ABORT: (unbound-variable). The call to member? requires a single quote before the element
+	otherwise it gets evaluated. So, we would need (member? 'd '(...))
+8. #f
+9. #f
+10. (sanwich ham blue eggs and cheese)
+11. (blue cheese and)
+12. The built in functions null?, cons, car, cdr, etc can be very powerful.
+13. Using recursion for everything can be irritating, but with some practice it wasn't
+	too difficult.
+14. About 7 hours, most of which was relearning the Linux kernal and Guile, not actually
+	writing code in Scheme, which is frustrating and not really the scope of this lab.
+15. Somewhat, it was nice to learn a new paradigm of programming languages. I don't really
+	see myself using Scheme again unless it is required though.

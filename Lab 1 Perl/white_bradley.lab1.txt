@@ -1,0 +1,27 @@
+Bradley White
+CSCI 305
+Lab 1 Questions
+
+1. birthday
+2. song
+3. 99
+4. love
+5. 13
+6. happy birthday song i love you are you are you are you are you are you are you are you
+7. sad song i love you are you are you are you are you are you are you are you are
+8. hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey
+9. little girl i love you are you are you are you are you are you are you are you are
+10. amore mio babbino caro nome na na na na na na na na na na na na na na na
+11. love you are you are you are you are you are you are you are you are you are you
+12. Add a check during string creation if the second to last word equals the current word and break the loop if so.
+13. montana blue eyes i love you are
+14. bob marley puppet master plan b flat major op 11 bagatelles surfing down i love you are
+15. moon river blues i love you are
+16. The string and text manipulation is extremely powerful and quick.
+17. Regular expressions are really complicated and hard to decipher without memorizing what each token does.
+18. I found this lab frustrating, mainly having to research every little thing I needed to implement. It was
+	difficult to make progress at the beginning because of the regular expressions and needing to filter
+	the file before being able to proceed with the lab. I also had to learn hash tables because I'm
+	taking CSCI 232 currently, which compounded the difficulty.
+19. Approximately 30 hours.
+20. If I ever have to process large amounts of text, I could see myself using it again.
